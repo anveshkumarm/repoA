@@ -25,3 +25,8 @@ jobs:
         with:
           name: readme
           path: ./README.md
+          
+  call-workflow-passing-data:
+      uses: anveshkumarm/repoB/.github/workflows/blank.yml@main
+      with:
+        username: anvesh
