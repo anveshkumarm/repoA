@@ -30,3 +30,5 @@ jobs:
       uses: anveshkumarm/repoB/.github/workflows/blank.yml@main
       with:
         username: anvesh
+      secrets: 
+        tokrn: abcdefg
