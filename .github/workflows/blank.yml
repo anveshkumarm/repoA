@@ -31,4 +31,4 @@ jobs:
       with:
         username: anvesh
       secrets: 
-        tokrn: abcdefg
+        token: abcdefg
